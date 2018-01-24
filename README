@@ -1,0 +1,6 @@
+Data insert for MongoDB
+
+# Create db with name "spring-mongo"
+# db.getCollection('sample-collection').insert({"firstname":"<firstname>", "lastName":"<lastName>"})
+
+Access swagger url at : http://localhost:8090/swagger-ui.html
